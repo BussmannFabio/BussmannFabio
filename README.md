@@ -11,7 +11,7 @@ Contact:
     LinkedIn: www.linkedin.com/in/devfabiobussmann
     GitHub: github.com/BussmannFabio
 
-  >"Curiosity is the key to knowledge, for it leads us to question everything around us." — René Descartes
+  >"Curiosity is the key to knowledge, it leads ourselves to question everything around us." — René Descartes
   <div align="center">
    <a href="https://www.instagram.com/fabio_bussmann/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="mailto:fabio12513@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

@@ -1,7 +1,7 @@
 ## Hey! I'm Fabio Bussmann
-Aspiring Software Developer & Analyst | 
+Aspiring Software Developer & Analyst | Node.js, SQL and angular
 
-Currently studying Software Development & Analysis at FatecSP and focusing on Node.js, SQL and angular. Intending to apply my developing skills in real-world projects while expanding my knowledge of modern web development. Passionate about learning and adapting to new technologies. 
+Currently studying Software Development & Analysis at FatecSP and focusing on Node.js, SQL and Angular. Intending to apply my developing skills in real-world projects while expanding my knowledge of modern web development. Passionate about learning and adapting to new technologies. 
 
 Feel free to reach out to connect or collaborate!
 

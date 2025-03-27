@@ -1,8 +1,8 @@
 <h1 align="center">Hey! I'm Fabio Bussmann</h1>
-<h3 align="center">Aspiring Software Developer & Analyst | Node.js, SQL and Angular</h3>
+<h3 align="center">Aspiring Software Developer & Analyst</h3>
 
 <p align="center">
-Currently studying Software Development & Analysis at FatecSP and focusing on Node.js, SQL and Angular. Intending to apply my developing skills in real-world projects while expanding my knowledge of modern web development. Passionate about learning and adapting to new technologies.
+A full-stack developer who loves turning coffee into clean code. I build modern web apps using Angular for dynamic interfaces and Django REST Framework for bulletproof backends, with TypeScript/JavaScript as my trusty sidekicks across the stack.
 </p>
 
 <h2 align="center">🛠️ Dev Tools</h2>
@@ -38,6 +38,8 @@ Currently studying Software Development & Analysis at FatecSP and focusing on No
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BussmannFabio&show_icons=true&theme=radical&count_private=true" alt="Fabio's stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BussmannFabio&layout=compact&theme=radical" alt="Top langs" /> </p>
 
 <p align="center">
   <em>"Curiosity is the key to knowledge, it leads ourselves to question everything around us." — René Descartes</em>
